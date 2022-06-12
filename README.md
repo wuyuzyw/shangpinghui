@@ -1,5 +1,6 @@
 # shangpinghui
-
+# noted
+不要使用 ```npm run built ```,配置了proxy,别人的接口没有配cors
 ## Project setup
 ```
 npm install
